@@ -1,0 +1,14 @@
+@charset "utf-8";
+.h1 {
+    font-style: normal;
+    font-size: x-large;
+    font-weight: normal;
+}
+@charset "background color";
+.background {
+background: #62B3CC
+}
+.list {
+    font-size: x-large;
+    font-style: italic;
+}
